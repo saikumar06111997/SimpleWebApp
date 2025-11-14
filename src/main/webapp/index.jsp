@@ -99,7 +99,7 @@ h1{
             </ul>
 		
         </header>
-         <h1> amazon offers available from today onwards </h1>
+         <h1> amazon offers are closed on 31st dec 2025 </h1>
     </section>    
     <section id="about"><h1>This Is About</h1></section>
     <section id="product"><h1>This Is Product</h1></section>
